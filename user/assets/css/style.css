@@ -1,0 +1,139 @@
+body{
+	font-family: 'K2D', sans-serif;
+	background-color: #eee;
+}
+.container{
+	background-color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+.top-nav li{
+	margin-left: 10px !important;
+}
+.top-nav li a{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	font-size: 15px !important;
+	border-radius: 5px !important;
+}
+.mini-basket-title{
+	text-align: right;
+	margin-right: 15px;
+	font-family: 'K2D', sans-serif;
+}
+.navbar-default .navbar-nav>li>a{
+	font-family: 'K2D', sans-serif !important;
+	font-weight: normal;
+	background-color: #33CCFF;
+}
+.navbar{
+	background-color: #33CCFF !important;
+}
+.navbar-form input[type=text]{
+	background-color: #fff;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+.logo{
+	font-family: 'K2D', sans-serif !important;
+}
+.product-listing{
+	border: 1px solid #ccc !important;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	box-shadow: 0 0 10px #ccc;
+	height: 340px;
+	border-radius: 5px;
+}
+.product-listing h4{
+	font-size: 20px !important;
+
+}
+.footer{
+	border-top: 1px solid #ccc;
+	padding-top: 20px;
+}
+.product-listing .image{
+	margin-bottom: 0 !important;
+}
+.product-listing .title{
+	font-family: 'K2D', sans-serif !important;
+}
+.dropdown-menu li a{
+	font-family: 'K2D', sans-serif !important;
+}
+.member-box h2,label,h1{
+	font-family: 'K2D', sans-serif !important;
+}
+.caption h3{
+	font-family: 'K2D', sans-serif !important;
+}
+.form h3{
+	font-family: 'K2D', sans-serif !important;
+}
+label h4{
+	font-family: 'K2D', sans-serif !important;
+}
+.btn{
+	font-family: 'K2D', sans-serif !important;
+}
+h5,h2{
+	font-family: 'K2D', sans-serif !important;
+}
+table td{
+	font-family: 'K2D', sans-serif !important;
+}
+.checkout-steps .step span{
+	margin-top: 5px !important;
+}
+.ddpg{
+	font-size: 17px !important;
+}
+.com{
+	padding: 15px;
+	height: 400px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+.com .title{
+	font-weight: bold;
+	font-size: 18px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+}
+.com .item{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #eee;
+	border-radius: 3px;
+	margin-bottom: 5px;
+	padding-left: 8px;
+}
+.com .item .topic{
+	font-weight: bold;
+}
+.com .item .sub{
+	margin-left: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.com .item .data{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 3px;
+}
+.form-com{
+	margin-bottom: 10px;
+}
+.input-group-addon{
+	cursor: pointer;
+	background-color: #fff;
+}
+.p-right{
+	float: right;
+	padding-right: 10px;
+}
